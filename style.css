@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 8px solid black;
+    margin: 40px;
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+
+}
+.one{
+background-color: orangered;
+}
+.two{
+background-color: aqua;
+}
+.three{
+background-color: rgb(138,4,109);
+}
+.four{
+background-color: rgb(87,45,254);
+}
+.white {
+    background-color: white;
+}
+.green{
+    background-color: green;
+}
